@@ -2400,88 +2400,6 @@ class BuffInfo {
 }
 
 
-/***/ }),
-
-/***/ "./images/necrosis.data.png":
-/*!******************************!*\
-  !*** ./images/necrosis.data.png ***!
-  \******************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports=(__webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/base/dist/index.js").ImageDetect.imageDataFromBase64)("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")
-
-/***/ }),
-
-/***/ "./images/necrosis_empty.data.png":
-/*!************************************!*\
-  !*** ./images/necrosis_empty.data.png ***!
-  \************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports=(__webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/base/dist/index.js").ImageDetect.imageDataFromBase64)("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")
-
-/***/ }),
-
-/***/ "./images/necrosis_large.data.png":
-/*!************************************!*\
-  !*** ./images/necrosis_large.data.png ***!
-  \************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports=(__webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/base/dist/index.js").ImageDetect.imageDataFromBase64)("iVBORw0KGgoAAAANSUhEUgAAAAUAAAAKCAYAAAB8OZQwAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAABeSURBVBhXY4iaJvkfHYMF9XTl/+vpAbG+/H99QzmoIFRADyigbywLFUQSMIAJgrTABAzNYIJIAobmUEGwgAlEwNBSBkkQpMoCiG2gKuGqrGT+6zsoQQWRVOl46PwHAHbZUqSlEJWzAAAAAElFTkSuQmCC")
-
-/***/ }),
-
-/***/ "./images/necrosis_medium.data.png":
-/*!*************************************!*\
-  !*** ./images/necrosis_medium.data.png ***!
-  \*************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports=(__webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/base/dist/index.js").ImageDetect.imageDataFromBase64)("iVBORw0KGgoAAAANSUhEUgAAAAUAAAAPCAYAAAAs9AWDAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAACfSURBVChTXc7JDsIwDARQfqNqo6gSSBTUNmbvBoj1yAkO/TB+d7AbByEOc3kaZzLq3xH+M2CRWxQlhyzKhVEMsDRwHI8BVga0UZQTaQjQTnGAtQeqkx/cciq+2FuPQ0uwNchvM0V5i8/KQ4rs2SlKq0lQnMeMjSIPuJablwmyV61DAU8ppn1oymobg44G80cYYqROMIa76+epSr5I1wgfQAZ8s7IfvHEAAAAASUVORK5CYII=")
-
-/***/ }),
-
-/***/ "./images/necrosis_small.data.png":
-/*!************************************!*\
-  !*** ./images/necrosis_small.data.png ***!
-  \************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports=(__webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/base/dist/index.js").ImageDetect.imageDataFromBase64)("iVBORw0KGgoAAAANSUhEUgAAABsAAAAFCAYAAAC0CJe+AAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAEFSURBVChTvY/dTsJAEIV9BrEklP4Qf7u23e5EtNXWSohBEWO8NNzoU/GEGhPxTu6PswNCTbz24mQ2mfPNl92azjr4r4hMZyE0hchOfBgO9Tk5p1gmK3tQkwJqfIq43kVy7vPch7rLcXxfyN6susIxb+/Ye5oCaB02ZFa0KtDZEjIXHkzJufSQ3sRQD32klYvg1UH47iB4c5DWXajHHOkolp70mROe76yFpiFb/+hHZKGKc8XggA8+lUhGPRx8tHA4dxB9tnE0b8s7ud2TPQ1sv7uR/hIGG1lTRCwhCzBMQxd07SJ6rqDHHpKvbZhFC7TYQcZT20x8RC+19GjIMsv9IZzOOvgGxibpSzLRMYsAAAAASUVORK5CYII=")
-
-/***/ }),
-
-/***/ "../node_modules/@alt1/ocr/dist/index.js":
-/*!***********************************************!*\
-  !*** ../node_modules/@alt1/ocr/dist/index.js ***!
-  \***********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "GetChatColorMono": () => (/* binding */ GetChatColorMono),
-/* harmony export */   "canblend": () => (/* binding */ canblend),
-/* harmony export */   "debug": () => (/* binding */ debug),
-/* harmony export */   "debugFont": () => (/* binding */ debugFont),
-/* harmony export */   "debugout": () => (/* binding */ debugout),
-/* harmony export */   "decompose2col": () => (/* binding */ decompose2col),
-/* harmony export */   "decompose3col": () => (/* binding */ decompose3col),
-/* harmony export */   "decomposeblack": () => (/* binding */ decomposeblack),
-/* harmony export */   "findChar": () => (/* binding */ findChar),
-/* harmony export */   "findReadLine": () => (/* binding */ findReadLine),
-/* harmony export */   "generatefont": () => (/* binding */ generatefont),
-/* harmony export */   "getChatColor": () => (/* binding */ getChatColor),
-/* harmony export */   "readChar": () => (/* binding */ readChar),
-/* harmony export */   "readLine": () => (/* binding */ readLine),
-/* harmony export */   "readSmallCapsBackwards": () => (/* binding */ readSmallCapsBackwards),
-/* harmony export */   "unblendBlackBackground": () => (/* binding */ unblendBlackBackground),
-/* harmony export */   "unblendKnownBg": () => (/* binding */ unblendKnownBg),
-/* harmony export */   "unblendTrans": () => (/* binding */ unblendTrans)
-/* harmony export */ });
-/* harmony import */ var _alt1_base__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @alt1/base */ "../node_modules/@alt1/ocr/node_modules/@alt1/base/dist/index.js");
-
 var debug = {
     printcharscores: false,
     trackread: false
@@ -5377,48 +5295,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _alt1_buffs__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @alt1/buffs */ "../node_modules/@alt1/buffs/dist/index.js");
 //alt1 base libs, provides all the commonly used methods for image matching and capture
 //also gives your editor info about the window.alt1 api
-
-
-let font = __webpack_require__(/*! @alt1/ocr/fonts/pixel_digits_8px_shadow.js */ "../node_modules/@alt1/ocr/fonts/pixel_digits_8px_shadow.js");
-//tell webpack to add index.html and appconfig.json to output
-__webpack_require__(/*! !file-loader?name=[name].[ext]!./index.html */ "../node_modules/file-loader/dist/cjs.js?name=[name].[ext]!./index.html");
-__webpack_require__(/*! !file-loader?name=[name].[ext]!./appconfig.json */ "../node_modules/file-loader/dist/cjs.js?name=[name].[ext]!./appconfig.json");
-let imgs = _alt1_base__WEBPACK_IMPORTED_MODULE_0__.ImageDetect.webpackImages({
-    "necrosis": __webpack_require__(/*! ./images/necrosis.data.png */ "./images/necrosis.data.png"),
-    "necrosis_empty": __webpack_require__(/*! ./images/necrosis_empty.data.png */ "./images/necrosis_empty.data.png"),
-    "necrosis_small": __webpack_require__(/*! ./images/necrosis_small.data.png */ "./images/necrosis_small.data.png"),
-    "necrosis_medium": __webpack_require__(/*! ./images/necrosis_medium.data.png */ "./images/necrosis_medium.data.png"),
-    "necrosis_large": __webpack_require__(/*! ./images/necrosis_large.data.png */ "./images/necrosis_large.data.png"),
 });
-// Search for necrosis buff by using images. This is a slow method but does support medium and large buffs.
-let buff_sizes = ["necrosis_small", "necrosis_medium", "necrosis_large"];
-function readBuffsByImage() {
-    let canvas = document.getElementById("canvas");
-    let ctx = canvas.getContext("2d");
-    // Clear the canvas and draw the empty buff icon
-    ctx.drawImage(imgs.necrosis_empty.toImage(), 0, 0, canvas.width, canvas.height);
-    let img = _alt1_base__WEBPACK_IMPORTED_MODULE_0__.captureHoldFullRs();
-    let sizes = {
-        "necrosis_small": 27,
-        "necrosis_medium": 32,
-        "necrosis_large": 36
-    };
-    // Look for the current phase
-    for (let key in buff_sizes) {
-        let name = buff_sizes[key];
-        let img_found = img.findSubimage(imgs[name]);
-        if (img_found.length > 0) {
-            // At zamorak there is a mechanic with the same icon, the last one is always necrosis.
-            let last_item = img_found.length - 1;
-            let size = sizes[name];
-            let buff = _alt1_base__WEBPACK_IMPORTED_MODULE_0__.capture(img_found[last_item].x, img_found[last_item].y, size, size);
-            ctx.drawImage(buff.toDrawableData().toImage(), 0, 0, size, size, 0, 0, canvas.width, canvas.height);
-            // Only look for this buff size from now on
-            buff_sizes = [buff_sizes[key]];
-            break;
-        }
-    }
-}
 let reader = new _alt1_buffs__WEBPACK_IMPORTED_MODULE_1__["default"]();
 function showSelectedBuffs(chat) {
     let buffsize = 27;
@@ -5430,69 +5307,10 @@ function showSelectedBuffs(chat) {
     }
     catch (_a) { }
 }
-function readBuffs() {
-    let opts = reader.read() || [];
-    let canvas = document.getElementById("canvas");
-    let ctx = canvas.getContext("2d");
-    // Clear the canvas and draw the empty buff icon
-    ctx.drawImage(imgs.necrosis_empty.toImage(), 0, 0, canvas.width, canvas.height);
-    // At zamorak there is a mechanic with the same icon, the last one is always necrosis
-    // Reverse the order of the buffs so that the last one is the one we want.
-    for (const a in opts.reverse()) {
-        if (opts[a].compareBuffer(imgs.necrosis)) {
-            let img = opts[a].buffer.toImage();
-            // drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight);        
-            ctx.drawImage(img, opts[a].bufferx, opts[a].buffery, 27, 27, 0, 0, canvas.width, canvas.height);
-            break;
-        }
-    }
-}
-document.getElementById("canvas").onclick = function () {
-    // Toggle the image search setting
-    if (localStorage["necrosis_search"] == "true") {
-        localStorage["necrosis_search"] = "false";
-    }
-    else {
-        localStorage["necrosis_search"] = "true";
-    }
-    console.log("Using image search: " + localStorage["necrosis_search"]);
-    alt1.setTooltip("Using image search: " + localStorage["necrosis_search"]);
-    // Reload the window to apply changes
-    setTimeout(function () {
-        window.location.reload();
-    }, 1000);
-};
-// check if we are running inside alt1 by checking if the alt1 global exists
-if (window.alt1) {
-    alt1.identifyAppUrl("./appconfig.json");
-    if (localStorage["necrosis_search"] == "true") {
-        setInterval(function () {
-            readBuffsByImage();
-        }, 100);
-    }
-    else {
-        let findBuffBar = setInterval(function () {
-            if (reader.pos === null)
-                reader.find();
-            else {
-                clearInterval(findBuffBar);
-                let square = reader.getCaptRect();
-                showSelectedBuffs(square);
-                setInterval(function () {
-                    readBuffs();
-                }, 100);
-            }
-        }, 1000);
-    }
-    if (!localStorage["necrosis_search"]) {
-        // Do not use the inefficient method that supports multiple sizes by default
-        localStorage["necrosis_search"] = "false";
-    }
-}
+
 
 })();
 
 /******/ 	return __webpack_exports__;
 /******/ })()
 ;
-});
